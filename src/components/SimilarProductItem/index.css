@@ -1,0 +1,50 @@
+.list-items {
+  list-style: none;
+  width: 470px;
+}
+
+.similar-img {
+  height: 250px;
+  width: 250px;
+  border-radius: 5px;
+}
+
+.pr-ctn {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 250px;
+}
+
+.brand1 {
+  color: #616e7c;
+}
+
+.title1 {
+  font-weight: bold;
+}
+
+.price1 {
+  font-weight: bold;
+}
+
+.rating-ctn1 {
+  background-color: #3b82f6;
+  width: 45px;
+  height: 20px;
+  border-radius: 2px;
+  padding-right: 0px;
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  padding: 7px;
+}
+.star-img {
+  height: 20px;
+  width: 20px;
+}
+
+.rating {
+  color: #ffffff;
+  font-weight: 500;
+}
